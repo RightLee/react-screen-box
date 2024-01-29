@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com/RightLee/vue-screen-box"
+    "url": "git@github.com/RightLee/react-screen-box"
   },
   "peerDependencies": {
     "react": ">=17.0.0",
